@@ -1,4 +1,4 @@
-# YOlo Solutions Website Project
+# Yolo Solutions Website Project
 
 ## Project Overview
 Welcome to the YOlo Solutions website project repository! This project aims to create an engaging and informative website for YOlo Solutions, a tech and media solution provider for businesses.
